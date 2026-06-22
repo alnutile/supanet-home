@@ -1,5 +1,10 @@
 # SupaNet Landing
 
+**Hosted [here](https://supanet.dailyai.studio/)
+
+<img width="2840" height="1746" alt="CleanShot 2026-06-22 at 14 07 44@2x" src="https://github.com/user-attachments/assets/599432e4-2ce1-437c-b627-85783a60cb6f" />
+
+
 Self-contained marketing landing page for SupaNet. `index.html` has all fonts and assets inlined — no build step, no external requests.
 
 ## Deploy on Railway
